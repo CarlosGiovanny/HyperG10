@@ -1,7 +1,7 @@
 Hola esta es la historia de Giovanny
 
--Iniciando el aprendizaje de GIT
+Iniciando el aprendizaje de GIT
 
 Vamos por todo!
 
-El Camino Así Es
+El Camino Así Es ...
